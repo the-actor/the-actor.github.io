@@ -1,10 +1,10 @@
 {
    "ios":{
-      "version":"1.0.0",
+      "version":"1.0.1",
       "link":"https://itunes.apple.com/lookup?bundleId="
    },
    "aos":{
-      "version":"1.0.0",
+      "version":"1.0.1",
       "link":"https://play.google.com/store/apps/details?id="
    }
 }

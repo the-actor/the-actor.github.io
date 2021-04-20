@@ -22,5 +22,19 @@
       "강원(영서)":3,
       "강원(영동)":5,
       "제주도":8
-   }
+   },
+   "banner":[
+      {
+         "margin":15,
+         "url":"https://the-actor.github.io/images/banners/theactor-banner1.jpg?v=1",
+         "type":"jpg",
+         "link":"http://theactor.co.kr/"
+      },
+      {
+         "margin":15,
+         "url":"https://the-actor.github.io/images/banners/theactor-banner1.jpg?v=1",
+         "type":"jpg",
+         "link":"http://theactor.co.kr/"
+      }
+   ]
 }

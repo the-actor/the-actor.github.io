@@ -26,10 +26,17 @@
    "banner":[
       {
          "margin":15,
-         "url":"https://the-actor.github.io/images/banners/theactor-banner1.jpg?v=1",
-         "url_dark":"https://the-actor.github.io/images/banners/theactor-banner1.jpg?v=1",
-         "type":"jpg",
-         "link":"https://theactor.co.kr/"
+         "url":"https://the-actor.github.io/images/banners/banner1.jpg?v=1",
+         "url_dark":"https://the-actor.github.io/images/banners/banner1.jpg?v=1",
+         "type":"png",
+         "link":"https://theactor.co.kr/actors"
+      },
+      {
+         "margin":15,
+         "url":"https://the-actor.github.io/images/banners/banner2.jpg?v=1",
+         "url_dark":"https://the-actor.github.io/images/banners/banner2.jpg?v=1",
+         "type":"png",
+         "link":"https://theactor.co.kr/castings"
       }
    ]
 }

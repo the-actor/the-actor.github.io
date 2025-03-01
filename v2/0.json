@@ -1,0 +1,45 @@
+{
+   "ios":{
+      "version":"1.0.10",
+      "link":"https://apps.apple.com/kr/app/id1567021574"
+   },
+   "aos":{
+      "version":"1.1.4",
+      "link":"https://play.google.com/store/apps/details?id=com.theactor.actor"
+   },
+   "hour":10030,
+   "mealFee":8000,
+   "roomFee":35000,
+   "transFee":10000,
+   "localHour":9000,
+   "localFee":{
+      "경기도":1,
+      "충청북도":2,
+      "충청남도":3,
+      "경상북도":4,
+      "전라북도":4,
+      "경상남도":5,
+      "전라남도":5,
+      "강원(영서)":3,
+      "강원(영동)":5,
+      "제주도":8
+   },
+   "banner":[
+      {
+         "margin":10,
+         "url":"https://the-actor.github.io/images/banners/banner1.png?v=2",
+         "url_dark":"https://the-actor.github.io/images/banners/banner1.png?v=1",
+         "type":"png",
+         "link":"https://theactor.co.kr/app/actors",
+         "auth": true
+      },
+      {
+         "margin":0,
+         "url":"https://the-actor.github.io/images/banners/banner2.png?v=2",
+         "url_dark":"https://the-actor.github.io/images/banners/banner2.png?v=1",
+         "type":"png",
+         "link":"https://theactor.co.kr/app/castings",
+         "auth": true
+      }
+   ]
+}

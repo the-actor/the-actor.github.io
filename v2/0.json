@@ -26,7 +26,7 @@
    },
    "banner":[
       {
-         "margin":10,
+         "margin":20,
          "url":"https://the-actor.github.io/images/banners/banner1.png?v=2",
          "url_dark":"https://the-actor.github.io/images/banners/banner1.png?v=1",
          "type":"png",

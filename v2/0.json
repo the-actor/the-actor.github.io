@@ -33,13 +33,6 @@
          "link":"https://theactor.co.kr/app/actors",
          "auth": true
       },
-      {
-         "margin":0,
-         "url":"https://the-actor.github.io/images/banners/banner2.png?v=2",
-         "url_dark":"https://the-actor.github.io/images/banners/banner2.png?v=1",
-         "type":"png",
-         "link":"https://theactor.co.kr/app/castings",
-         "auth": true
-      }
+    
    ]
 }

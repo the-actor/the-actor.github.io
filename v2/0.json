@@ -31,7 +31,8 @@
          "url_dark":"https://the-actor.github.io/images/banners/banner1.png?v=1",
          "type":"png",
          "link":"https://theactor.co.kr/app/actors",
-         "auth": true
+         "auth": true,
+         "mode":"left"
       }
    ]
 }
